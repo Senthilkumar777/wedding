@@ -89,7 +89,7 @@
     
 }
 .up{
-    padding-left: 200px;
+    padding-left: 250px;
     color: darkslategrey;
     z-index: 1;
 
@@ -131,8 +131,8 @@
     margin-right:100px ;
     display: flex;
     flex-direction: column;
-    padding-left: 10px;
-    padding-right: 120px;
+    padding-left: 40px;
+    padding-right: 1000px;
 }
 
 .inner:hover{
@@ -270,7 +270,7 @@ flex-direction: column;
     display: flex;
     flex-direction: column;
      margin-right: 600px;
-    padding-left: 100px;
+    padding-left: 50px;
     width: max-content;
     text-align: center;
     align-items: center;
@@ -280,8 +280,8 @@ flex-direction: column;
 #rrr2{
     display: flex;
     flex-direction: column;
-     margin-right: 350px;
-    padding-left: 1px;
+     margin-right: 600px;
+    padding-left: 10px;
     width: max-content;
     text-align: center;
     align-items: center;
