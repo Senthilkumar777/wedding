@@ -16,7 +16,7 @@
     display: flex;
     flex-direction: column;
     text-align: center;
-    border: 1px solid darkgrey;
+   
     
    }
    .home{
@@ -89,7 +89,7 @@
     
 }
 .up{
-    padding-left: 400px;
+    padding-left: 200px;
     color: darkslategrey;
     z-index: 1;
 
@@ -128,7 +128,7 @@
 
 
 .card3{
-    margin-right:50px ;
+    margin-right:100px ;
     display: flex;
     flex-direction: column;
     padding-left: 10px;
@@ -269,7 +269,7 @@ flex-direction: column;
 #rrr1{
     display: flex;
     flex-direction: column;
-     margin-right: 500px;
+     margin-right: 600px;
     padding-left: 100px;
     width: max-content;
     text-align: center;
