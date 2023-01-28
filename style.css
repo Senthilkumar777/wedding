@@ -183,7 +183,7 @@ body{
     padding: 0%;
     width: 1350px;
     height: 600px;
-    background-image: url(/images/contact-1.png);
+    background-image: url(./images/contact-1.png);
     background-size: cover;
 
     
@@ -240,7 +240,7 @@ body{
     padding: 0%;
     width: 1350px;
     height: 600px;
-    background-image: url(/images/contact-bg.png);
+    background-image: url(./images/contact-bg.png);
     background-size: cover;
    
     
@@ -253,7 +253,7 @@ body{
     padding: 0%;
     width: 1350px;
     height: 600px;
-    background-image: url(/images/4.png);
+    background-image: url(./images/4.png);
     background-size: cover;
    
 }
@@ -273,7 +273,7 @@ body{
     padding: 0%;
     width: 1350px;
     height: 600px;
-    background-image: url(/food/f9.jpg);
+    background-image: url(./food/f9.jpg);
     background-size: cover;
     
 }
@@ -293,7 +293,7 @@ body{
     padding: 0%;
     width: 1350px;
     height: 600px;
-    background-image: url(/images/6.png);
+    background-image: url(./images/6.png);
     background-size: cover;
    
    }
