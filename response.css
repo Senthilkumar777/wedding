@@ -103,7 +103,7 @@
     padding: 0%;
     width: 100%;
     height: 100%;
-    background-image: url(/images/contact-1.png);
+    background-image: url(./images/contact-1.png);
     background-size: cover;
 
     
@@ -169,7 +169,7 @@
     background-size: cover;
 
     
-    background-image: url(/images/contact-bg.png);
+    background-image: url(./images/contact-bg.png);
     
     
 }
@@ -188,7 +188,7 @@
     padding: 0%;
     width: 100%;
     height: 100%;
-    background-image: url(/images/4.png);
+    background-image: url(./images/4.png);
     background-size: cover;
     background-color: rgb(193, 182, 184);
 }
@@ -210,7 +210,7 @@
     padding: 0%;
     width: 100%;
     height: 100%;
-    background-image: url(/food/f9.jpg);
+    background-image: url(./food/f9.jpg);
     background-size: cover;
     background-color: rgba(117, 105, 105, 0.413)
 }
@@ -241,7 +241,7 @@ flex-direction: column;
     padding: 0%;
     width: 100%;
     height: 100%;
-    background-image: url(/images/6.png);
+    background-image: url(./images/6.png);
     background-size: cover;
     background-color: darkgrey;
    } 
