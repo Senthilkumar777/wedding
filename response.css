@@ -257,7 +257,7 @@ flex-direction: column;
 #rrr{
     display: flex;
     flex-direction: column;
-    padding-right: 50px;
+   
     margin-right: 60px;
     padding-left: 100px;
     width: max-content;
@@ -272,7 +272,7 @@ flex-direction: column;
     flex-direction: column;
      margin-right: 500px;
     padding-left: 40px;
-     padding-right: 30px;
+
     width: max-content;
     text-align: center;
     align-items: center;
@@ -294,7 +294,7 @@ flex-direction: column;
     display: flex;
     flex-direction: column;
     
-    
+    pading-left:50px;
     width: max-content;
     text-align: center;
     align-items: center;
