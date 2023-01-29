@@ -133,7 +133,7 @@
     display: flex;
     flex-direction: column;
     padding-left: 40px;
-    padding-right: 120px;
+    padding-right: 60px;
 }
 
 .inner:hover{
@@ -271,7 +271,7 @@ flex-direction: column;
     display: flex;
     flex-direction: column;
      margin-right: 500px;
-    padding-left: 10px;
+    padding-left: 30px;
      padding-right: 50px;
     width: max-content;
     text-align: center;
@@ -294,7 +294,7 @@ flex-direction: column;
     display: flex;
     flex-direction: column;
     
-    padding-left: 50px;
+    
     width: max-content;
     text-align: center;
     align-items: center;
