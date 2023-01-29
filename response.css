@@ -33,6 +33,7 @@
    }
    #home1{
     display: flex;
+     padding-left:0px;
     flex-direction: column;
     padding-top: 100px;
     padding-bottom: 100px;
@@ -246,7 +247,7 @@ flex-direction: column;
     background-color: darkgrey;
    } 
    #dj10{
-    padding-left: 100px;
+    padding-left: 10px;
     font-family: 'Beau Rivage', cursive;
      text-align: center;
      padding-top: 50px;
@@ -256,8 +257,8 @@ flex-direction: column;
 #rrr{
     display: flex;
     flex-direction: column;
-    
-    margin-right: 80px;
+    padding-right: 50px;
+    margin-right: 60px;
     padding-left: 100px;
     width: max-content;
     text-align: center;
@@ -269,7 +270,8 @@ flex-direction: column;
 #rrr1{
     display: flex;
     flex-direction: column;
-     margin-right: 600px;
+     margin-right: 500px;
+    padding-left: 10px;
     padding-left: 50px;
     width: max-content;
     text-align: center;
@@ -280,7 +282,7 @@ flex-direction: column;
 #rrr2{
     display: flex;
     flex-direction: column;
-     margin-right: 600px;
+     margin-right: 500px;
     padding-left: 10px;
     width: max-content;
     text-align: center;
