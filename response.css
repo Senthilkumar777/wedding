@@ -90,7 +90,7 @@
     
 }
 .up{
-    padding-left: 150px;
+    padding-left: 170px;
     color: darkslategrey;
     z-index: 1;
 
@@ -129,11 +129,11 @@
 
 
 .card3{
-    margin-right:500px ;
+    
     display: flex;
     flex-direction: column;
-    padding-left: 40px;
-    padding-right: 30px;
+ 
+    
 }
 
 .inner:hover{
@@ -283,18 +283,19 @@ flex-direction: column;
     display: flex;
     flex-direction: column;
      margin-right: 500px;
-    padding-left: 10px;
+    padding-left: 40px;
     width: max-content;
     text-align: center;
     align-items: center;
     justify-content: center;
     justify-items: center;
 }
-#mmm{
+#mmm
     display: flex;
     flex-direction: column;
     
-    pading-left:50px;
+      margin-right: 500px;
+    pading-left:40px;
     width: max-content;
     text-align: center;
     align-items: center;
