@@ -129,7 +129,7 @@
 
 
 .card3{
-    margin-right:100px ;
+    margin-right:500px ;
     display: flex;
     flex-direction: column;
     padding-left: 40px;
@@ -272,7 +272,7 @@ flex-direction: column;
     flex-direction: column;
      margin-right: 500px;
     padding-left: 10px;
-  
+     padding-right: 50px;
     width: max-content;
     text-align: center;
     align-items: center;
@@ -293,8 +293,8 @@ flex-direction: column;
 #mmm{
     display: flex;
     flex-direction: column;
-     margin-right: 80px;
-    padding-left: 10px;
+    
+    padding-left: 50px;
     width: max-content;
     text-align: center;
     align-items: center;
