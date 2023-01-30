@@ -134,7 +134,7 @@
     
     display: flex;
     flex-direction: column;
- 
+    margin-right: 500px;
     
 }
 
@@ -249,7 +249,7 @@ flex-direction: column;
     background-color: darkgrey;
    } 
    #dj10{
-    padding-left: 10px;
+    padding-left: 30px;
     font-family: 'Beau Rivage', cursive;
      text-align: center;
      padding-top: 50px;
@@ -261,7 +261,7 @@ flex-direction: column;
     flex-direction: column;
    
     margin-right: 60px;
-    padding-left: 10px;
+    padding-left: 30px;
     width: max-content;
     text-align: center;
     align-items: center;
@@ -273,7 +273,7 @@ flex-direction: column;
     display: flex;
     flex-direction: column;
      margin-right: 500px;
-    padding-left: 10px;
+    padding-left: 30px;
 
     width: max-content;
     text-align: center;
@@ -285,7 +285,7 @@ flex-direction: column;
     display: flex;
     flex-direction: column;
      margin-right: 500px;
-    padding-left: 10px;
+    padding-left: 30px;
     width: max-content;
     text-align: center;
     align-items: center;
@@ -296,7 +296,7 @@ flex-direction: column;
     display: flex;
     flex-direction: column;
    
-    pading-left:10px;
+    pading-left:30px;
    pading-right:100px;
     width: max-content;
     text-align: center;
