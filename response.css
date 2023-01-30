@@ -299,10 +299,10 @@ flex-direction: column;
     pading-left:30px;
    pading-right:500px;
     width: max-content;
-    text-align: center;
-    align-items: center;
+    text-align: left;
+    align-items: flex-end;
     justify-content: center;
-    justify-items: center;   
+    justify-items: right;   
 }
    
 
