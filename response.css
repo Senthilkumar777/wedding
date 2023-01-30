@@ -90,6 +90,8 @@
     
 }
 .up{
+  
+    padding-right: 100px;
     padding-left: 400px;
     color: darkslategrey;
     z-index: 1;
