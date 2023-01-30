@@ -134,7 +134,7 @@
     
     display: flex;
     flex-direction: column;
-    margin-right: 900px;
+    margin-right: 500px;
     
 }
 
@@ -297,7 +297,7 @@ flex-direction: column;
     flex-direction: column;
    
     pading-left:30px;
-   pading-right:100px;
+   pading-right:500px;
     width: max-content;
     text-align: center;
     align-items: center;
