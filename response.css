@@ -134,7 +134,7 @@
     
     display: flex;
     flex-direction: column;
-    marging-right:500px;
+    marging-right:700px;
     
 }
 
@@ -295,7 +295,7 @@ flex-direction: column;
 #mmm{
     display: flex;
     flex-direction: column;
-     marging-right:500px;
+     marging-right:700px;
     pading-left:40px;
     width: max-content;
     text-align: center;
