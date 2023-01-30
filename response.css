@@ -90,7 +90,7 @@
     
 }
 .up{
-    padding-left: 260px;
+    padding-left: 490px;
     color: darkslategrey;
     z-index: 1;
 
@@ -259,7 +259,7 @@ flex-direction: column;
     flex-direction: column;
    
     margin-right: 60px;
-    padding-left: 40px;
+    padding-left: 10px;
     width: max-content;
     text-align: center;
     align-items: center;
@@ -271,7 +271,7 @@ flex-direction: column;
     display: flex;
     flex-direction: column;
      margin-right: 500px;
-    padding-left: 40px;
+    padding-left: 10px;
 
     width: max-content;
     text-align: center;
@@ -283,7 +283,7 @@ flex-direction: column;
     display: flex;
     flex-direction: column;
      margin-right: 500px;
-    padding-left: 40px;
+    padding-left: 10px;
     width: max-content;
     text-align: center;
     align-items: center;
@@ -294,7 +294,7 @@ flex-direction: column;
     display: flex;
     flex-direction: column;
     
-      margin-right: 500px;
+      margin-right: 800px;
     pading-left:10px;
     width: max-content;
     text-align: center;
