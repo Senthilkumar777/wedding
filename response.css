@@ -292,7 +292,7 @@ flex-direction: column;
     justify-content: center;
     justify-items: center;
 }
-#mmm
+#mmm{
     display: flex;
     flex-direction: column;
      marging-right:500px;
