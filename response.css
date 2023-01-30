@@ -134,7 +134,7 @@
     
     display: flex;
     flex-direction: column;
-   margin-right: 500px; 
+   
     
 }
 
@@ -297,12 +297,12 @@ flex-direction: column;
     flex-direction: column;
    
     pading-left:30px;
-   pading-right:500px;
+   pading-right:2000px;
     width: max-content;
-    text-align: left;
-    align-items: flex-end;
+    text-align: center;
+    align-items: center;
     justify-content: center;
-    justify-items: right;   
+    justify-items: center;   
 }
    
 
