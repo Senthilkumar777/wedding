@@ -91,8 +91,7 @@
 }
 .up{
   
-    padding-right: 100px;
-    padding-left: 400px;
+    padding-left: 290px;
     color: darkslategrey;
     z-index: 1;
 
@@ -296,7 +295,7 @@ flex-direction: column;
     display: flex;
     flex-direction: column;
     
-      margin-right: 800px;
+      margin-right: 500px;
     pading-left:10px;
     width: max-content;
     text-align: center;
