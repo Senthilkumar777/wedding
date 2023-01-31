@@ -296,7 +296,7 @@ flex-direction: column;
     display: flex;
     flex-direction: column;
     pading-right: 300px;
-   
+    margin-right:300px;
   
     width: max-content;
     text-align: center;
