@@ -295,7 +295,7 @@ flex-direction: column;
 #mmm{
     display: flex;
     flex-direction: column;
-    margin-right: 300px;
+    pading-right: 300px;
    
   
     width: max-content;
