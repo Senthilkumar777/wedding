@@ -93,6 +93,7 @@
 .up{
   
     padding-left: 290px;
+    pading-right:100px
     color: darkslategrey;
     z-index: 1;
 
@@ -132,8 +133,8 @@
 
 .card3{
     
-    display: flex;
-    flex-direction: column;
+    display:block;
+   pading-right:160px;
    
     
 }
@@ -293,11 +294,11 @@ flex-direction: column;
     justify-items: center;
 }
 #mmm{
-    display: flex;
-    flex-direction: column;
-    pading-right: 100px;
-   magin-right:300px;
-   pading-left:15px;
+    display: block;
+  
+    pading-right: 160px;
+   magin-right:0px;
+   pading-left:59px;
   
     width: max-content;
     text-align: center;
