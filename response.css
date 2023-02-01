@@ -249,7 +249,7 @@ flex-direction: column;
     background-color: darkgrey;
    } 
    #dj10{
-    padding-left: 30px;
+    padding-left: 15px;
     font-family: 'Beau Rivage', cursive;
      text-align: center;
      padding-top: 50px;
@@ -296,7 +296,8 @@ flex-direction: column;
     display: flex;
     flex-direction: column;
     pading-right: 300px;
-    margin-right:300px;
+    margin-right:700px;
+    padding-left: 30px;
   
     width: max-content;
     text-align: center;
