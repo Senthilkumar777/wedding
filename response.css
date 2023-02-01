@@ -295,16 +295,11 @@ flex-direction: column;
 }
 #mmm{
     display: block;
-  
     pading-right: 160px;
    magin-right:0px;
    pading-left:59px;
   
-    width: max-content;
-    text-align: center;
-    align-items: center;
-    justify-content: center;
-    justify-items: center;   
+ 
 }
    
 
