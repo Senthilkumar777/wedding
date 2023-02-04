@@ -95,7 +95,7 @@
 .dress1{
     display: flex;
     flex-direction: column;
-    
+    magin:0%;
     padding: 0%;
     width: 100%;
     height: 100%;
@@ -124,7 +124,8 @@
 
 
 .card3{
-    
+    magin:0%;
+    padding: 0%;
     display:block;
    pading-right:160px;
    
@@ -285,7 +286,8 @@ flex-direction: column;
     justify-content: center;
     justify-items: center;
 }
-#mmm{
+#mmm{magin:0%;
+    
     display: block;
     pading-right: 160px;
    magin-right:0px;
